@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>DTU | Research Group</title>
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"
+      integrity="sha512-iBBXm8fW90+nuLcSKlbmrPcLa0OT92xO1BIsZ+ywDWZCvqsWgccV3gFoRBv0z+8dLJgyAHIhR35VZc2oM/gI1w=="
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer"
+    />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Dosis:wght@400&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="/main.css" />
+    <link rel="apple-touch-icon" sizes="57x57" href="apple-icon-180x180.png" />
+  </head>
+  <body>
+    <div id="navbar">
+      <div class="container">
+        <nav id="main-nav">
+          <img src="/logo.png" alt="logo" id="logo" />
+          <ul>
+            <li><a href="/">Home</a></li>
+            <li><a href="/people" class="current">Who we are?</a></li>
+            <li><a href="/publications">Publications</a></li>
+            <li><a href="/joinus">Join Us</a></li>
+          </ul>
+        </nav>
+      </div>
+    </div>
+    <section id="people-a" class="my-2">
+      <div class="container">
+        <h2 class="section-title">Who we are?</h2>
+
+        <div class="bottom-line"></div>
+        <p class="lead">
+          Lorem ipsum dolor sit, amet consectetur adipisicing elit. Tempora odit
+          earum reprehenderit architecto quod totam dolorum ducimus ut, quidem,
+          eius labore cumque repellendus, sint ipsum.
+        </p>
+        <h2 class="people-types">Ph.D. Students</h2>
+        <br />
+        <div class="people-grid">
+
+            <% phd.forEach(p=>{ %>
+          <div class="people-card">
+            <div class="img-container">
+              <a href="/people/<%= p._id %>">
+                <img src="/<%= p.imageUrl %>"alt="" />
+              </a>
+            </div>
+
+            <p><%= p.name %></p>
+            <p><%= p.college %></p>
+            <div class="people-social">
+              <a href="/"><i class="fa fa-envelope" aria-hidden="true"></i></a>
+              <a href="/<%= p.github %>" target="_blank"><i class="fab fa-github"></i></a>
+              <a href="/<%= p.linkedin %>" target="_blank"><i class="fab fa-linkedin" aria-hidden="true"></i></a>
+            </div>
+          </div>
+
+          <% }) %>
+          
+        </div>
+        <h2 class="people-types ">Masters Students</h2>
+        <br />
+        <div class="people-grid">
+             <% mtech.forEach(p=>{ %>
+          <div class="people-card">
+            <div class="img-container">
+              <a href="/people/<%= p._id %>">
+                <img src="/<%= p.imageUrl %>"alt="" />
+              </a>
+            </div>
+
+            <p><%= p.name %></p>
+            <p><%= p.college %></p>
+            <div class="people-social">
+              <a href="/"><i class="fa fa-envelope" aria-hidden="true"></i></a>
+              <a href="/<%= p.github %>" target="_blank"><i class="fab fa-github"></i></a>
+              <a href="/<%= p.linkedin %>" target="_blank"><i class="fab fa-linkedin" aria-hidden="true"></i></a>
+            </div>
+          </div>
+
+          <% }) %>
+        </div>
+
+        <h2 class="people-types ">B.Tech. Students</h2>
+        <br />
+        <div class="people-grid">
+             <% btech.forEach(p=>{ %>
+          <div class="people-card">
+            <div class="img-container">
+              <a href="/people/<%= p._id %>">
+                <img src="/<%= p.imageUrl %>"alt="" />
+              </a>
+            </div>
+
+            <p><%= p.name %></p>
+            <p><%= p.college %></p>
+            <div class="people-social">
+              <a href="/"><i class="fa fa-envelope" aria-hidden="true"></i></a>
+              <a href="/<%= p.github %>" target="_blank"><i class="fab fa-github"></i></a>
+              <a href="/<%= p.linkedin %>" target="_blank"><i class="fab fa-linkedin" aria-hidden="true"></i></a>
+            </div>
+          </div>
+
+          <% }) %>
+        </div>
+    </section>
+    <footer id="main-footer">
+      <div class="footer-content container">
+        <p>Also follow us on :</p>
+        <div class="social">
+          <i class="fab fa-twitter"></i>
+          <i class="fab fa-facebook"></i>
+          <i class="fab fa-instagram"></i>
+          <i class="fab fa-linkedin"></i>
+        </div>
+      </div>
+    </footer>
+  </body>
+</html>

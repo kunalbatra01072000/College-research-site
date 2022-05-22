@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>DTU | Research Group</title>
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"
+      integrity="sha512-iBBXm8fW90+nuLcSKlbmrPcLa0OT92xO1BIsZ+ywDWZCvqsWgccV3gFoRBv0z+8dLJgyAHIhR35VZc2oM/gI1w=="
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer"
+    />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Dosis:wght@400&display=swap"
+      rel="stylesheet"
+    />
+
+    <link rel="stylesheet" href="/main.css" />
+  </head>
+  <body>
+    <div id="navbar">
+      <div class="container">
+        <nav id="main-nav">
+          <img src="/logo.png" alt="logo" id="logo" />
+          <ul>
+            <li><a href="/">Home</a></li>
+            <li><a href="/people">Who we are?</a></li>
+            <li>
+              <a href="/publications" class="current">Publications</a>
+            </li>
+            <li><a href="/joinus">Join Us</a></li>
+          </ul>
+        </nav>
+      </div>
+    </div>
+    <section id="publication">
+      <div class="publication-filters text-center">
+        <form method="POST" class="form" action="/publication">
+          <div class="form-group">
+            <select name="position">
+              <option value="Peer-reviewed Publication">
+                Peer-reviewed Publication
+              </option>
+              <option value="Technical Reports">Technical Reports</option>
+              <option value="Minor(ity) Reports">Minor(ity) Reports</option>
+            </select>
+          </div>
+
+          <div class="form-group">
+            <select name="position">
+              <option value="Journal">Journal</option>
+              <option value="Model">Model</option>
+              <option value="Confrence">Confrence</option>
+            </select>
+          </div>
+
+          <div class="form-group" data-role="rangeslider">
+            <section class="range-slider">
+              <span class="rangeValues"></span>
+              <input
+                type="range"
+                name="price-min"
+                value="1990"
+                min="1990"
+                max="2021"
+                step="1"
+              />
+              <input
+                type="range"
+                name="price-max"
+                value="2021"
+                min="1990"
+                max="2021"
+                step="1"
+              />
+            </section>
+          </div>
+
+          <input type="submit" class="btn btn-primary my-1" value="Apply" />
+        </form>
+      </div>
+      <div class="publications-view my-2">
+        <div class="container">
+          <ul>
+            <% pdata.forEach(p=> { %>
+            <li><%= p %></li>
+            <br />
+            <% }) %>
+          </ul>
+        </div>
+        <div class="pagination">
+          <button class="btn btn-dark">Previous</button>
+          <button class="btn btn-primary">1</button>
+          <button class="btn btn-dark">Next</button>
+        </div>
+      </div>
+    </section>
+    <footer id="main-footer">
+      <div class="footer-content container">
+        <p>Also follow us on :</p>
+        <div class="social">
+          <i class="fab fa-twitter"></i>
+          <i class="fab fa-facebook"></i>
+          <i class="fab fa-instagram"></i>
+          <i class="fab fa-linkedin"></i>
+        </div>
+      </div>
+    </footer>
+    <script src="/range.js"></script>
+  </body>
+</html>

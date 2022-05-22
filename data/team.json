@@ -1,0 +1,506 @@
+[
+  {
+    "name": "John Slovakia",
+    "email": "kbs1234@gmail.com",
+    "linkedin": "uiifwieuhf",
+    "github": "urhvuewg",
+    "college": "DTU",
+    "teamType": "phd",
+    "imageUrl": "team-img/person1.jpg",
+    "aof": [
+      "Machine Learning",
+      "Deep Learning",
+      "Web Mining",
+      "Operating Systems",
+      "Natural Language Processing"
+    ],
+    "qualif": [
+      "BTech from DTU, Delhi",
+      "Masters from Manchester University, Manchester",
+      "PhD from DTU"
+    ],
+    "publications": [
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum, veritatis! Quidem, magni repudiandae? Fuga necessitatibus deleniti placeat ullam! Cumque, voluptas. Dolorem et voluptatum numquam ullam!",
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum, veritatis! Quidem, magni repudiandae? Fuga necessitatibus deleniti placeat ullam! Cumque, voluptas. Dolorem et voluptatum numquam ullam!",
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum, veritatis! Quidem, magni repudiandae? Fuga necessitatibus deleniti placeat ullam! Cumque, voluptas. Dolorem et voluptatum numquam ullam!",
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum, veritatis! Quidem, magni repudiandae? Fuga necessitatibus deleniti placeat ullam! Cumque, voluptas. Dolorem et voluptatum numquam ullam!",
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum, veritatis! Quidem, magni repudiandae? Fuga necessitatibus deleniti placeat ullam! Cumque, voluptas. Dolorem et voluptatum numquam ullam!"
+    ]
+  },
+  {
+    "name": "Sahaj Batra",
+    "email": "kbs1234@gmail.com",
+    "linkedin": "uiifwieuhf",
+    "github": "urhvuewg",
+    "college": "IGDTU",
+    "teamType": "phd",
+    "imageUrl": "team-img/person2.jpg",
+    "aof": [
+      "Machine Learning",
+      "Deep Learning",
+      "Web Mining",
+      "Operating Systems",
+      "Natural Language Processing"
+    ],
+    "qualif": [
+      "BTech from DTU, Delhi",
+      "Masters from Manchester University, Manchester",
+      "PhD from DTU"
+    ],
+    "publications": [
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum, veritatis! Quidem, magni repudiandae? Fuga necessitatibus deleniti placeat ullam! Cumque, voluptas. Dolorem et voluptatum numquam ullam!",
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum, veritatis! Quidem, magni repudiandae? Fuga necessitatibus deleniti placeat ullam! Cumque, voluptas. Dolorem et voluptatum numquam ullam!",
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum, veritatis! Quidem, magni repudiandae? Fuga necessitatibus deleniti placeat ullam! Cumque, voluptas. Dolorem et voluptatum numquam ullam!",
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum, veritatis! Quidem, magni repudiandae? Fuga necessitatibus deleniti placeat ullam! Cumque, voluptas. Dolorem et voluptatum numquam ullam!",
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum, veritatis! Quidem, magni repudiandae? Fuga necessitatibus deleniti placeat ullam! Cumque, voluptas. Dolorem et voluptatum numquam ullam!"
+    ]
+  },
+  {
+    "name": "Simran Grover",
+    "email": "kbs1234@gmail.com",
+    "linkedin": "uiifwieuhf",
+    "github": "urhvuewg",
+    "college": "Kalindi College",
+    "teamType": "phd",
+    "imageUrl": "team-img/person3.jpg",
+    "aof": [
+      "Machine Learning",
+      "Deep Learning",
+      "Web Mining",
+      "Operating Systems",
+      "Natural Language Processing"
+    ],
+    "qualif": [
+      "BTech from DTU, Delhi",
+      "Masters from Manchester University, Manchester",
+      "PhD from DTU"
+    ],
+    "publications": [
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum, veritatis! Quidem, magni repudiandae? Fuga necessitatibus deleniti placeat ullam! Cumque, voluptas. Dolorem et voluptatum numquam ullam!",
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum, veritatis! Quidem, magni repudiandae? Fuga necessitatibus deleniti placeat ullam! Cumque, voluptas. Dolorem et voluptatum numquam ullam!",
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum, veritatis! Quidem, magni repudiandae? Fuga necessitatibus deleniti placeat ullam! Cumque, voluptas. Dolorem et voluptatum numquam ullam!",
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum, veritatis! Quidem, magni repudiandae? Fuga necessitatibus deleniti placeat ullam! Cumque, voluptas. Dolorem et voluptatum numquam ullam!",
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum, veritatis! Quidem, magni repudiandae? Fuga necessitatibus deleniti placeat ullam! Cumque, voluptas. Dolorem et voluptatum numquam ullam!"
+    ]
+  },
+  {
+    "name": "Yukti Anand",
+    "email": "kbs1234@gmail.com",
+    "linkedin": "uiifwieuhf",
+    "github": "urhvuewg",
+    "college": "Dayal Singh College",
+    "teamType": "mtech",
+    "imageUrl": "team-img/person4.jpg",
+    "aof": [
+      "Machine Learning",
+      "Deep Learning",
+      "Web Mining",
+      "Operating Systems",
+      "Natural Language Processing"
+    ],
+    "qualif": [
+      "BTech from DTU, Delhi",
+      "Masters from Manchester University, Manchester",
+      "PhD from DTU"
+    ],
+    "publications": [
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum, veritatis! Quidem, magni repudiandae? Fuga necessitatibus deleniti placeat ullam! Cumque, voluptas. Dolorem et voluptatum numquam ullam!",
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum, veritatis! Quidem, magni repudiandae? Fuga necessitatibus deleniti placeat ullam! Cumque, voluptas. Dolorem et voluptatum numquam ullam!",
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum, veritatis! Quidem, magni repudiandae? Fuga necessitatibus deleniti placeat ullam! Cumque, voluptas. Dolorem et voluptatum numquam ullam!",
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum, veritatis! Quidem, magni repudiandae? Fuga necessitatibus deleniti placeat ullam! Cumque, voluptas. Dolorem et voluptatum numquam ullam!",
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum, veritatis! Quidem, magni repudiandae? Fuga necessitatibus deleniti placeat ullam! Cumque, voluptas. Dolorem et voluptatum numquam ullam!"
+    ]
+  },
+  {
+    "name": "Shreya Uppal",
+    "email": "kbs1234@gmail.com",
+    "linkedin": "uiifwieuhf",
+    "github": "urhvuewg",
+    "college": "Rukmini Devi College",
+    "teamType": "mtech",
+    "imageUrl": "team-img/person5.jpg",
+    "aof": [
+      "Machine Learning",
+      "Deep Learning",
+      "Web Mining",
+      "Operating Systems",
+      "Natural Language Processing"
+    ],
+    "qualif": [
+      "BTech from DTU, Delhi",
+      "Masters from Manchester University, Manchester",
+      "PhD from DTU"
+    ],
+    "publications": [
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum, veritatis! Quidem, magni repudiandae? Fuga necessitatibus deleniti placeat ullam! Cumque, voluptas. Dolorem et voluptatum numquam ullam!",
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum, veritatis! Quidem, magni repudiandae? Fuga necessitatibus deleniti placeat ullam! Cumque, voluptas. Dolorem et voluptatum numquam ullam!",
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum, veritatis! Quidem, magni repudiandae? Fuga necessitatibus deleniti placeat ullam! Cumque, voluptas. Dolorem et voluptatum numquam ullam!",
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum, veritatis! Quidem, magni repudiandae? Fuga necessitatibus deleniti placeat ullam! Cumque, voluptas. Dolorem et voluptatum numquam ullam!",
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum, veritatis! Quidem, magni repudiandae? Fuga necessitatibus deleniti placeat ullam! Cumque, voluptas. Dolorem et voluptatum numquam ullam!"
+    ]
+  },
+  {
+    "name": "Piyush Kumar",
+    "email": "kbs1234@gmail.com",
+    "linkedin": "uiifwieuhf",
+    "github": "urhvuewg",
+    "college": "Shyamlal College",
+    "teamType": "mtech",
+    "imageUrl": "team-img/person6.jpg",
+    "aof": [
+      "Machine Learning",
+      "Deep Learning",
+      "Web Mining",
+      "Operating Systems",
+      "Natural Language Processing"
+    ],
+    "qualif": [
+      "BTech from DTU, Delhi",
+      "Masters from Manchester University, Manchester",
+      "PhD from DTU"
+    ],
+    "publications": [
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum, veritatis! Quidem, magni repudiandae? Fuga necessitatibus deleniti placeat ullam! Cumque, voluptas. Dolorem et voluptatum numquam ullam!",
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum, veritatis! Quidem, magni repudiandae? Fuga necessitatibus deleniti placeat ullam! Cumque, voluptas. Dolorem et voluptatum numquam ullam!",
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum, veritatis! Quidem, magni repudiandae? Fuga necessitatibus deleniti placeat ullam! Cumque, voluptas. Dolorem et voluptatum numquam ullam!",
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum, veritatis! Quidem, magni repudiandae? Fuga necessitatibus deleniti placeat ullam! Cumque, voluptas. Dolorem et voluptatum numquam ullam!",
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum, veritatis! Quidem, magni repudiandae? Fuga necessitatibus deleniti placeat ullam! Cumque, voluptas. Dolorem et voluptatum numquam ullam!"
+    ]
+  },
+  {
+    "name": "Hriday Sharma",
+    "email": "kbs1234@gmail.com",
+    "linkedin": "uiifwieuhf",
+    "github": "urhvuewg",
+    "college": "DTU",
+    "teamType": "mtech",
+    "imageUrl": "team-img/person7.jpg",
+    "aof": [
+      "Machine Learning",
+      "Deep Learning",
+      "Web Mining",
+      "Operating Systems",
+      "Natural Language Processing"
+    ],
+    "qualif": [
+      "BTech from DTU, Delhi",
+      "Masters from Manchester University, Manchester",
+      "PhD from DTU"
+    ],
+    "publications": [
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum, veritatis! Quidem, magni repudiandae? Fuga necessitatibus deleniti placeat ullam! Cumque, voluptas. Dolorem et voluptatum numquam ullam!",
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum, veritatis! Quidem, magni repudiandae? Fuga necessitatibus deleniti placeat ullam! Cumque, voluptas. Dolorem et voluptatum numquam ullam!",
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum, veritatis! Quidem, magni repudiandae? Fuga necessitatibus deleniti placeat ullam! Cumque, voluptas. Dolorem et voluptatum numquam ullam!",
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum, veritatis! Quidem, magni repudiandae? Fuga necessitatibus deleniti placeat ullam! Cumque, voluptas. Dolorem et voluptatum numquam ullam!",
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum, veritatis! Quidem, magni repudiandae? Fuga necessitatibus deleniti placeat ullam! Cumque, voluptas. Dolorem et voluptatum numquam ullam!"
+    ]
+  },
+  {
+    "name": "Sneha Gupta",
+    "email": "kbs1234@gmail.com",
+    "linkedin": "uiifwieuhf",
+    "github": "urhvuewg",
+    "college": "Kalindi College",
+    "teamType": "mtech",
+    "imageUrl": "team-img/person8.jpg",
+    "aof": [
+      "Machine Learning",
+      "Deep Learning",
+      "Web Mining",
+      "Operating Systems",
+      "Natural Language Processing"
+    ],
+    "qualif": [
+      "BTech from DTU, Delhi",
+      "Masters from Manchester University, Manchester",
+      "PhD from DTU"
+    ],
+    "publications": [
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum, veritatis! Quidem, magni repudiandae? Fuga necessitatibus deleniti placeat ullam! Cumque, voluptas. Dolorem et voluptatum numquam ullam!",
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum, veritatis! Quidem, magni repudiandae? Fuga necessitatibus deleniti placeat ullam! Cumque, voluptas. Dolorem et voluptatum numquam ullam!",
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum, veritatis! Quidem, magni repudiandae? Fuga necessitatibus deleniti placeat ullam! Cumque, voluptas. Dolorem et voluptatum numquam ullam!",
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum, veritatis! Quidem, magni repudiandae? Fuga necessitatibus deleniti placeat ullam! Cumque, voluptas. Dolorem et voluptatum numquam ullam!",
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum, veritatis! Quidem, magni repudiandae? Fuga necessitatibus deleniti placeat ullam! Cumque, voluptas. Dolorem et voluptatum numquam ullam!"
+    ]
+  },
+  {
+    "name": "John Slovakia",
+    "email": "kbs1234@gmail.com",
+    "linkedin": "uiifwieuhf",
+    "github": "urhvuewg",
+    "college": "DTU",
+    "teamType": "mtech",
+    "imageUrl": "team-img/person9.jpg",
+    "aof": [
+      "Machine Learning",
+      "Deep Learning",
+      "Web Mining",
+      "Operating Systems",
+      "Natural Language Processing"
+    ],
+    "qualif": [
+      "BTech from DTU, Delhi",
+      "Masters from Manchester University, Manchester",
+      "PhD from DTU"
+    ],
+    "publications": [
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum, veritatis! Quidem, magni repudiandae? Fuga necessitatibus deleniti placeat ullam! Cumque, voluptas. Dolorem et voluptatum numquam ullam!",
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum, veritatis! Quidem, magni repudiandae? Fuga necessitatibus deleniti placeat ullam! Cumque, voluptas. Dolorem et voluptatum numquam ullam!",
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum, veritatis! Quidem, magni repudiandae? Fuga necessitatibus deleniti placeat ullam! Cumque, voluptas. Dolorem et voluptatum numquam ullam!",
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum, veritatis! Quidem, magni repudiandae? Fuga necessitatibus deleniti placeat ullam! Cumque, voluptas. Dolorem et voluptatum numquam ullam!",
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum, veritatis! Quidem, magni repudiandae? Fuga necessitatibus deleniti placeat ullam! Cumque, voluptas. Dolorem et voluptatum numquam ullam!"
+    ]
+  },
+  {
+    "name": "Khushi Bhola",
+    "email": "kbs1234@gmail.com",
+    "linkedin": "uiifwieuhf",
+    "github": "urhvuewg",
+    "college": "Hindu College",
+    "teamType": "btech",
+    "imageUrl": "team-img/person10.jpg",
+    "aof": [
+      "Machine Learning",
+      "Deep Learning",
+      "Web Mining",
+      "Operating Systems",
+      "Natural Language Processing"
+    ],
+    "qualif": [
+      "BTech from DTU, Delhi",
+      "Masters from Manchester University, Manchester",
+      "PhD from DTU"
+    ],
+    "publications": [
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum, veritatis! Quidem, magni repudiandae? Fuga necessitatibus deleniti placeat ullam! Cumque, voluptas. Dolorem et voluptatum numquam ullam!",
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum, veritatis! Quidem, magni repudiandae? Fuga necessitatibus deleniti placeat ullam! Cumque, voluptas. Dolorem et voluptatum numquam ullam!",
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum, veritatis! Quidem, magni repudiandae? Fuga necessitatibus deleniti placeat ullam! Cumque, voluptas. Dolorem et voluptatum numquam ullam!",
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum, veritatis! Quidem, magni repudiandae? Fuga necessitatibus deleniti placeat ullam! Cumque, voluptas. Dolorem et voluptatum numquam ullam!",
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum, veritatis! Quidem, magni repudiandae? Fuga necessitatibus deleniti placeat ullam! Cumque, voluptas. Dolorem et voluptatum numquam ullam!"
+    ]
+  },
+  {
+    "name": "Ishita Batra",
+    "email": "kbs1234@gmail.com",
+    "linkedin": "uiifwieuhf",
+    "github": "urhvuewg",
+    "college": "DTU",
+    "teamType": "btech",
+    "imageUrl": "team-img/person11.jpg",
+    "aof": [
+      "Machine Learning",
+      "Deep Learning",
+      "Web Mining",
+      "Operating Systems",
+      "Natural Language Processing"
+    ],
+    "qualif": [
+      "BTech from DTU, Delhi",
+      "Masters from Manchester University, Manchester",
+      "PhD from DTU"
+    ],
+    "publications": [
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum, veritatis! Quidem, magni repudiandae? Fuga necessitatibus deleniti placeat ullam! Cumque, voluptas. Dolorem et voluptatum numquam ullam!",
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum, veritatis! Quidem, magni repudiandae? Fuga necessitatibus deleniti placeat ullam! Cumque, voluptas. Dolorem et voluptatum numquam ullam!",
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum, veritatis! Quidem, magni repudiandae? Fuga necessitatibus deleniti placeat ullam! Cumque, voluptas. Dolorem et voluptatum numquam ullam!",
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum, veritatis! Quidem, magni repudiandae? Fuga necessitatibus deleniti placeat ullam! Cumque, voluptas. Dolorem et voluptatum numquam ullam!",
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum, veritatis! Quidem, magni repudiandae? Fuga necessitatibus deleniti placeat ullam! Cumque, voluptas. Dolorem et voluptatum numquam ullam!"
+    ]
+  },
+  {
+    "name": "Aakash Mehra",
+    "email": "kbs1234@gmail.com",
+    "linkedin": "uiifwieuhf",
+    "github": "urhvuewg",
+    "college": "Hindu College",
+    "teamType": "btech",
+    "imageUrl": "team-img/person12.jpg",
+    "aof": [
+      "Machine Learning",
+      "Deep Learning",
+      "Web Mining",
+      "Operating Systems",
+      "Natural Language Processing"
+    ],
+    "qualif": [
+      "BTech from DTU, Delhi",
+      "Masters from Manchester University, Manchester",
+      "PhD from DTU"
+    ],
+    "publications": [
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum, veritatis! Quidem, magni repudiandae? Fuga necessitatibus deleniti placeat ullam! Cumque, voluptas. Dolorem et voluptatum numquam ullam!",
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum, veritatis! Quidem, magni repudiandae? Fuga necessitatibus deleniti placeat ullam! Cumque, voluptas. Dolorem et voluptatum numquam ullam!",
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum, veritatis! Quidem, magni repudiandae? Fuga necessitatibus deleniti placeat ullam! Cumque, voluptas. Dolorem et voluptatum numquam ullam!",
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum, veritatis! Quidem, magni repudiandae? Fuga necessitatibus deleniti placeat ullam! Cumque, voluptas. Dolorem et voluptatum numquam ullam!",
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum, veritatis! Quidem, magni repudiandae? Fuga necessitatibus deleniti placeat ullam! Cumque, voluptas. Dolorem et voluptatum numquam ullam!"
+    ]
+  },
+  {
+    "name": "Riya Mahajan",
+    "email": "kbs1234@gmail.com",
+    "linkedin": "uiifwieuhf",
+    "github": "urhvuewg",
+    "college": "DTU",
+    "teamType": "btech",
+    "imageUrl": "team-img/person13.jpg",
+    "aof": [
+      "Machine Learning",
+      "Deep Learning",
+      "Web Mining",
+      "Operating Systems",
+      "Natural Language Processing"
+    ],
+    "qualif": [
+      "BTech from DTU, Delhi",
+      "Masters from Manchester University, Manchester",
+      "PhD from DTU"
+    ],
+    "publications": [
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum, veritatis! Quidem, magni repudiandae? Fuga necessitatibus deleniti placeat ullam! Cumque, voluptas. Dolorem et voluptatum numquam ullam!",
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum, veritatis! Quidem, magni repudiandae? Fuga necessitatibus deleniti placeat ullam! Cumque, voluptas. Dolorem et voluptatum numquam ullam!",
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum, veritatis! Quidem, magni repudiandae? Fuga necessitatibus deleniti placeat ullam! Cumque, voluptas. Dolorem et voluptatum numquam ullam!",
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum, veritatis! Quidem, magni repudiandae? Fuga necessitatibus deleniti placeat ullam! Cumque, voluptas. Dolorem et voluptatum numquam ullam!",
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum, veritatis! Quidem, magni repudiandae? Fuga necessitatibus deleniti placeat ullam! Cumque, voluptas. Dolorem et voluptatum numquam ullam!"
+    ]
+  },
+  {
+    "name": "Muskan Vij",
+    "email": "kbs1234@gmail.com",
+    "linkedin": "uiifwieuhf",
+    "github": "urhvuewg",
+    "college": "SPM",
+    "teamType": "btech",
+    "imageUrl": "team-img/person14.jpg",
+    "aof": [
+      "Machine Learning",
+      "Deep Learning",
+      "Web Mining",
+      "Operating Systems",
+      "Natural Language Processing"
+    ],
+    "qualif": [
+      "BTech from DTU, Delhi",
+      "Masters from Manchester University, Manchester",
+      "PhD from DTU"
+    ],
+    "publications": [
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum, veritatis! Quidem, magni repudiandae? Fuga necessitatibus deleniti placeat ullam! Cumque, voluptas. Dolorem et voluptatum numquam ullam!",
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum, veritatis! Quidem, magni repudiandae? Fuga necessitatibus deleniti placeat ullam! Cumque, voluptas. Dolorem et voluptatum numquam ullam!",
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum, veritatis! Quidem, magni repudiandae? Fuga necessitatibus deleniti placeat ullam! Cumque, voluptas. Dolorem et voluptatum numquam ullam!",
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum, veritatis! Quidem, magni repudiandae? Fuga necessitatibus deleniti placeat ullam! Cumque, voluptas. Dolorem et voluptatum numquam ullam!",
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum, veritatis! Quidem, magni repudiandae? Fuga necessitatibus deleniti placeat ullam! Cumque, voluptas. Dolorem et voluptatum numquam ullam!"
+    ]
+  },
+  {
+    "name": "Raj Sethi",
+    "email": "kbs1234@gmail.com",
+    "linkedin": "uiifwieuhf",
+    "github": "urhvuewg",
+    "college": "DTU",
+    "teamType": "btech",
+    "imageUrl": "team-img/person15.jpg",
+    "aof": [
+      "Machine Learning",
+      "Deep Learning",
+      "Web Mining",
+      "Operating Systems",
+      "Natural Language Processing"
+    ],
+    "qualif": [
+      "BTech from DTU, Delhi",
+      "Masters from Manchester University, Manchester",
+      "PhD from DTU"
+    ],
+    "publications": [
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum, veritatis! Quidem, magni repudiandae? Fuga necessitatibus deleniti placeat ullam! Cumque, voluptas. Dolorem et voluptatum numquam ullam!",
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum, veritatis! Quidem, magni repudiandae? Fuga necessitatibus deleniti placeat ullam! Cumque, voluptas. Dolorem et voluptatum numquam ullam!",
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum, veritatis! Quidem, magni repudiandae? Fuga necessitatibus deleniti placeat ullam! Cumque, voluptas. Dolorem et voluptatum numquam ullam!",
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum, veritatis! Quidem, magni repudiandae? Fuga necessitatibus deleniti placeat ullam! Cumque, voluptas. Dolorem et voluptatum numquam ullam!",
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum, veritatis! Quidem, magni repudiandae? Fuga necessitatibus deleniti placeat ullam! Cumque, voluptas. Dolorem et voluptatum numquam ullam!"
+    ]
+  },
+  {
+    "name": "Mahima Rajput",
+    "email": "kbs1234@gmail.com",
+    "linkedin": "uiifwieuhf",
+    "github": "urhvuewg",
+    "college": "Kalindi College",
+    "teamType": "btech",
+    "imageUrl": "team-img/person16.jpg",
+    "aof": [
+      "Machine Learning",
+      "Deep Learning",
+      "Web Mining",
+      "Operating Systems",
+      "Natural Language Processing"
+    ],
+    "qualif": [
+      "BTech from DTU, Delhi",
+      "Masters from Manchester University, Manchester",
+      "PhD from DTU"
+    ],
+    "publications": [
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum, veritatis! Quidem, magni repudiandae? Fuga necessitatibus deleniti placeat ullam! Cumque, voluptas. Dolorem et voluptatum numquam ullam!",
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum, veritatis! Quidem, magni repudiandae? Fuga necessitatibus deleniti placeat ullam! Cumque, voluptas. Dolorem et voluptatum numquam ullam!",
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum, veritatis! Quidem, magni repudiandae? Fuga necessitatibus deleniti placeat ullam! Cumque, voluptas. Dolorem et voluptatum numquam ullam!",
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum, veritatis! Quidem, magni repudiandae? Fuga necessitatibus deleniti placeat ullam! Cumque, voluptas. Dolorem et voluptatum numquam ullam!",
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum, veritatis! Quidem, magni repudiandae? Fuga necessitatibus deleniti placeat ullam! Cumque, voluptas. Dolorem et voluptatum numquam ullam!"
+    ]
+  },
+  {
+    "name": "Rashi Kohli",
+    "email": "kbs1234@gmail.com",
+    "linkedin": "uiifwieuhf",
+    "github": "urhvuewg",
+    "college": "DTU",
+    "teamType": "btech",
+    "imageUrl": "team-img/person17.jpg",
+    "aof": [
+      "Machine Learning",
+      "Deep Learning",
+      "Web Mining",
+      "Operating Systems",
+      "Natural Language Processing"
+    ],
+    "qualif": [
+      "BTech from DTU, Delhi",
+      "Masters from Manchester University, Manchester",
+      "PhD from DTU"
+    ],
+    "publications": [
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum, veritatis! Quidem, magni repudiandae? Fuga necessitatibus deleniti placeat ullam! Cumque, voluptas. Dolorem et voluptatum numquam ullam!",
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum, veritatis! Quidem, magni repudiandae? Fuga necessitatibus deleniti placeat ullam! Cumque, voluptas. Dolorem et voluptatum numquam ullam!",
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum, veritatis! Quidem, magni repudiandae? Fuga necessitatibus deleniti placeat ullam! Cumque, voluptas. Dolorem et voluptatum numquam ullam!",
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum, veritatis! Quidem, magni repudiandae? Fuga necessitatibus deleniti placeat ullam! Cumque, voluptas. Dolorem et voluptatum numquam ullam!",
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum, veritatis! Quidem, magni repudiandae? Fuga necessitatibus deleniti placeat ullam! Cumque, voluptas. Dolorem et voluptatum numquam ullam!"
+    ]
+  },
+  {
+    "name": "Shyam Sundar",
+    "email": "kbs1234@gmail.com",
+    "linkedin": "uiifwieuhf",
+    "github": "urhvuewg",
+    "college": "DTU",
+    "teamType": "btech",
+    "imageUrl": "team-img/person18.jpg",
+    "aof": [
+      "Machine Learning",
+      "Deep Learning",
+      "Web Mining",
+      "Operating Systems",
+      "Natural Language Processing"
+    ],
+    "qualif": [
+      "BTech from DTU, Delhi",
+      "Masters from Manchester University, Manchester",
+      "PhD from DTU"
+    ],
+    "publications": [
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum, veritatis! Quidem, magni repudiandae? Fuga necessitatibus deleniti placeat ullam! Cumque, voluptas. Dolorem et voluptatum numquam ullam!",
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum, veritatis! Quidem, magni repudiandae? Fuga necessitatibus deleniti placeat ullam! Cumque, voluptas. Dolorem et voluptatum numquam ullam!",
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum, veritatis! Quidem, magni repudiandae? Fuga necessitatibus deleniti placeat ullam! Cumque, voluptas. Dolorem et voluptatum numquam ullam!",
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum, veritatis! Quidem, magni repudiandae? Fuga necessitatibus deleniti placeat ullam! Cumque, voluptas. Dolorem et voluptatum numquam ullam!",
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum, veritatis! Quidem, magni repudiandae? Fuga necessitatibus deleniti placeat ullam! Cumque, voluptas. Dolorem et voluptatum numquam ullam!"
+    ]
+  }
+]

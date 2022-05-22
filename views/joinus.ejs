@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>DTU | Research Group</title>
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"
+      integrity="sha512-iBBXm8fW90+nuLcSKlbmrPcLa0OT92xO1BIsZ+ywDWZCvqsWgccV3gFoRBv0z+8dLJgyAHIhR35VZc2oM/gI1w=="
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer"
+    />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Dosis:wght@400&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="/main.css" />
+    <link rel="apple-touch-icon" sizes="57x57" href="apple-icon-180x180.png" />
+  </head>
+  <body>
+    <div id="navbar">
+      <div class="container">
+        <nav id="main-nav">
+          <img src="/logo.png" alt="logo" id="logo" />
+          <ul>
+            <li><a href="/">Home</a></li>
+            <li><a href="/people">Who we are?</a></li>
+            <li><a href="/publications">Publications</a></li>
+            <li><a href="/joinus" class="current">Join Us</a></li>
+          </ul>
+        </nav>
+      </div>
+    </div>
+    <section id="joinus" class="py-3 text-center">
+      <div class="container">
+        <h2 class="section-title">Fill up the form :</h2>
+        <div class="bottom-line"></div>
+        <p class="lead">
+          Fill out the form to begin with the application process.
+        </p>
+        <form
+          method="POST"
+          class="form"
+          action="/joinus"
+          enctype="multipart/form-data"
+        >
+          <div class="form-group">
+            <input
+              type="text"
+              name="name"
+              placeholder="Enter your full name"
+              min="5"
+              required
+            />
+          </div>
+          <div class="form-group">
+            <input
+              type="email"
+              name="email"
+              required
+              placeholder="Enter your email id"
+            />
+          </div>
+          <div class="form-group">
+            <input
+              type="text"
+              name="college"
+              placeholder="Enter your full college name"
+              required
+              min="5"
+            />
+          </div>
+          <div class="form-group">
+            <input
+              type="text"
+              name="collegeYear"
+              placeholder="Current year at college"
+              required
+              min="5"
+            />
+          </div>
+
+          <div class="form-group">
+            <select name="studentType">
+              <option value="Research Intern">Research Intern</option>
+              <option value="Full time Research Associate">
+                Full time Research Associate
+              </option>
+              <option value="BTech/MTech Thesis">BTech/MTech Thesis</option>
+            </select>
+          </div>
+          <div class="form-group">
+            <span>Upload your resume</span>
+
+            <input type="file" name="resume" required />
+          </div>
+          <br />
+
+          <input type="submit" class="btn btn-primary my-1" />
+        </form>
+      </div>
+    </section>
+    <footer id="main-footer">
+      <div class="footer-content container">
+        <p>Also follow us on :</p>
+        <div class="social">
+          <i class="fab fa-twitter"></i>
+          <i class="fab fa-facebook"></i>
+          <i class="fab fa-instagram"></i>
+          <i class="fab fa-linkedin"></i>
+        </div>
+      </div>
+    </footer>
+  </body>
+</html>
